@@ -1,1 +1,1 @@
-# OpenCv- Simple image detection contours
+# OpenCv C++ Applications For Beginner Level.
