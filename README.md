@@ -1,2 +1,1 @@
-# OpenCv-C-
-OpenCv C++ 
+# OpenCv- Simple image detection contours
